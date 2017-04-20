@@ -1,3 +1,3 @@
 # bookish-memory
-Start Of Git
+Start Of Git  
 Today is Thursday!
